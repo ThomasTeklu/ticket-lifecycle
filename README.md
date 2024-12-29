@@ -26,6 +26,14 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
+As stated above, in this last section we will observe what stages a ticket goes through within a ticketing system from start to finish. We will make/create the tickets as end users, then observe and resolve them as help desk professionals/agents. Let's get started!
+
+
+## Intake
+
+Recall in the last section, we created "users" (i.e. those who would be file complaints as tickets). The first step for us now will be to log into the end-user page (http://localhost/osTicket) using one of the user accounts that we created. 
+
+
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
