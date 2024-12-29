@@ -28,6 +28,12 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 As stated above, in this last section we will observe what stages a ticket goes through within a ticketing system from start to finish. We will make/create the tickets as end users, then observe and resolve them as help desk professionals/agents. Let's get started!
 
+### Small Prelimenary Step
+
+For the sake of the rest of our exercise here, we need to adjust one minor thing before we really get started. Log in as an admin through the Admin Login Page (http://localhost/osTicket/scp/login.php). From within the Admin Panel, go to departments. Select the Maintenance Department by selecting the check box next to its name. While the Maintenance Department is selcted, click on the "More" button with the spoke next to it. From there select "delete" (NOT ARCHIVE). Confirm your decision then log out to move on to the next step.
+
+
+
 
 ## Intake
 
