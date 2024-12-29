@@ -31,7 +31,20 @@ As stated above, in this last section we will observe what stages a ticket goes 
 
 ## Intake
 
-Recall in the last section, we created "users" (i.e. those who would be file complaints as tickets). The first step for us now will be to log into the end-user page (http://localhost/osTicket) using one of the user accounts that we created. 
+Recall in the last section, we created "users" (i.e. those who would be file complaints as tickets). The first step for us now will be to go to the end-user page (http://localhost/osTicket) and create a ticket using one of the user accounts that we created. Click on the "Open a New Ticket" button.
+
+![image](https://github.com/user-attachments/assets/63df822f-a684-45f5-a881-37dc933d7d20)
+
+Then fill in the blank fields as required. For the scenario of our ticket, we're going to imagine that the mobile banking system has become inaccessable. The most accurate Help Topic for a situation like this would be "Report a Problem / Business Critical Outage", however in order that this ticket be more realistic, we're going to assume that the end user doesn't exactly know the best way to classify their problems, and just enter it under "Report a Problem".
+
+![image](https://github.com/user-attachments/assets/c4a4d3e7-48b5-4224-9401-c64fd409ffd0)
+
+In keeping with the "untrained end user" veneer of this ticket, let's assume that the issue summary that they enter is the following:
+    "entire mobile/online banking system is down"
+
+
+![image](https://github.com/user-attachments/assets/1f791c97-cdce-4334-b7be-156524551bec)
+
 
 
 <p>
