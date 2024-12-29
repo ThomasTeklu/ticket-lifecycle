@@ -52,7 +52,34 @@ In keeping with the "untrained end user" veneer of this ticket, let's assume tha
 ![image](https://github.com/user-attachments/assets/1f791c97-cdce-4334-b7be-156524551bec)
 
 
-# GO BACK TO DELETE MAINTENANCE DEPARTMENT STEP
+Now you can submit your ticket. You should see a response page stating that your ticket has been submitted and that you will receive a communication if needed.
+
+
+
+## Assignment and Communication
+
+Let's now move to the Admin/Analyst Login Page (http://localhost/osTicket/scp/login.php) and attempt to login as John Smith. Upon logging in, you should see the newly created ticket that we submitted through our user account. 
+
+![image](https://github.com/user-attachments/assets/1317c661-18db-46f3-a78e-35d4b3f834f0)
+
+Click on the ticket to open it and observe its properties. Look for specifically the "Priority", "Department", "SLA", and the "Assigned To". 
+
+![image](https://github.com/user-attachments/assets/e6da54a3-bd18-44a3-a569-33cece618893)
+
+These are all default settings based on ticket settings that can be managed from the admin account if desired. We'll leave those as they are for now, but we will edit the properties in this ticket from what they originally were. 
+
+Observe that the SLA Plan is set to "Default SLA". Click on this and in the window that pops up, change it to "Sev-A" which we was covered in the prior repository.
+
+![image](https://github.com/user-attachments/assets/a1accf38-7dc4-4f94-bf84-f84aee4e6fa2)
+
+You'll notice that there is an section where you can provide an optional explanation as to why you are manually making this switch. While we won't leave one now, it is generally a good practice to provide context for all steps just to keep the the ticket's history as clear as possible for anyone who may work on it at any given stage. 
+
+
+In addition to the SLA Plan, we will also switch the Department. Click on "Support" and switch it to the "SysAdmins" department. 
+
+### Question: What did you notice?
+
+Upon switching the departments, was there any automatic reaction for you? If not, click on the "Tickets" tab and see if there's a difference. You should no longer be able to see the ticket!
 
 
 <p>
