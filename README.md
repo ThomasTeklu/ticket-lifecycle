@@ -79,7 +79,24 @@ In addition to the SLA Plan, we will also switch the Department. Click on "Suppo
 
 ### Question: What did you notice?
 
-Upon switching the departments, was there any automatic reaction for you? If not, click on the "Tickets" tab and see if there's a difference. You should no longer be able to see the ticket!
+Upon switching the departments, was there any automatic reaction for you? If not, click on the "Tickets" tab and see if there's a difference. You should no longer be able to see the ticket! That's because, using the permissions associated with John's account, we sent the ticket to a department of which John is not a member. We'll have to continue working on this ticket with an account that is a member of the "SysAdmins" department.
+
+
+
+# Working the Issue
+
+Returning to the Agent Login Page, log in using the "Jane" account the you created in the last section of the tutorial. Upon logging in, you should now see the transferred ticket.
+
+![image](https://github.com/user-attachments/assets/21548fe9-a738-41c2-85cc-38fb73b08ed1)
+
+Remember that Jane is a member of the SysAdmins department, so now that the ticket has been assigned to her department, she can view it upon logging in.
+
+Open the ticket and scroll down to the Ticket Thread. Notice that you can see the full history of the ticket from its creation to the current moment.
+
+
+![image](https://github.com/user-attachments/assets/b8d9e880-2a54-4074-b5a6-c8ca44586d05)
+
+
 
 
 <p>
