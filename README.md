@@ -96,8 +96,32 @@ Open the ticket and scroll down to the Ticket Thread. Notice that you can see th
 
 ![image](https://github.com/user-attachments/assets/b8d9e880-2a54-4074-b5a6-c8ca44586d05)
 
+**Note**: As you can see, due to the times at which I took these screenshots, there was enough of a period for my ticket to become overdue, which is why the prior image had a small icon along with the ticket name. This is by no means an indicator of what will happen to you. It all depends on the timeline by which you work all of this through. Continuing...
 
 
+Now that we've observed the ticket briefly, let's move on to actually resolving it. It should be noted that the agent responsible for the ticket will often have to do some reading between the lines and also apply situational awareness to tickets since the descriptions that come with initial submission can be a vague. That being said, we will scroll down to the Post Reply section of the ticket. As a SysAdmin who has just been provided with a ticket (namely Jane), you will take steps on your side to resolving the issue while alerting the team what you are about to do. Within the Post Reply write:
+
+"I suspect the issue might be with the recent updates. We tested them sufficiently, but I'll still look into them. If I determine that they were the issue, we'll get on to rolling them back".
+
+Post this reply and observe as it gets added to the ticket's thread. 
+
+![image](https://github.com/user-attachments/assets/04148a0f-3aa7-49d1-a069-87eabcf09c41)
+
+Since we don't have an actual organization that we work in wherein we can check if these said "updates" were the actual problem, we're just going to assume that they were, and that we checked the relevant back-end configuration to know such. As Jane, go back to the Post Reply and let your team know that:
+
+"Determined that is was indeed the recent updates. We rolled it back, notified the vendor, and are currently awaiting a proper fix. For now, online banking should now be back up".
+
+# Resolution
+
+You've alerted everyone that the issue behind the ticket has been resolved. Now all that remains is to actually get rid of the ticket itself. Scroll back upon to where you can see the status. Click on "Open":
+
+![image](https://github.com/user-attachments/assets/eda5dc23-e4f8-42a7-abf0-c63ea687b6c7)
+
+After that, click on "Resolved", reflecting the nature of your ticket. In the window that pops up, click "Close". Your browser should now automatically refresh and you should be taken back to the tickets homepage. Notice that since your only ticket has been resolved, you have nothing else there:
+
+![image](https://github.com/user-attachments/assets/ae69ca80-57d3-4ccd-aa1b-730431a534ca)
+
+Congratulations! You've just resolved a ticket and completed the osTicket tutorial that I have for you. Though I myself am a novice, I hope that this was a helpful endeavor for you and that you learned something new. Wishing you all the best!
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
