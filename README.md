@@ -99,42 +99,17 @@ Since we don't have an actual organization that we work in to check if these sai
 
 "Determined that it was indeed the recent updates. We rolled them back, notified the vendor, and are currently awaiting a proper fix. For now, online banking should now be back up".
 
-# LEFT OFF HERE
-
-
-
 # Resolution
 
-You've alerted everyone that the issue behind the ticket has been resolved. Now all that remains is to actually get rid of the ticket itself. Scroll back upon to where you can see the status. Click on "Open":
+You've alerted everyone that the issue behind the ticket has been resolved. Now all that remains is to actually get rid of the ticket itself. Scroll back to where you can see the ticket's status. Click on "Open":
 
-![image](https://github.com/user-attachments/assets/eda5dc23-e4f8-42a7-abf0-c63ea687b6c7)
+![image](https://github.com/user-attachments/assets/44b5cbf8-e850-4a6c-9851-8bdf1fb56b81)
 
-After that, click on "Resolved", reflecting the nature of your ticket. In the window that pops up, click "Close". Your browser should now automatically refresh and you should be taken back to the tickets homepage. Notice that since your only ticket has been resolved, you have nothing else there:
+After that, click on "Resolved", reflecting the nature of your ticket. In the window that pops up, click "Close". Your browser should now automatically refresh and you should be taken back to the ticket's homepage. Notice that since your only ticket has been resolved, you have nothing else there:
 
-![image](https://github.com/user-attachments/assets/ae69ca80-57d3-4ccd-aa1b-730431a534ca)
+![image](https://github.com/user-attachments/assets/1f9350d8-440e-414b-8746-8f787d2c94ee)
 
-Congratulations! You've just resolved a ticket and completed the osTicket tutorial that I have for you. Though I myself am a novice, I hope that this was a helpful endeavor for you and that you learned something new. Wishing you all the best!
+# Conclusion
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+Congratulations! You've just resolved a ticket and completed the osTicket tutorial. I hope that this was a helpful endeavor for you and that you learned something new. I would recommend re-doing this tutorial series multiple times over, each time decreasing the reliance upon my instructions so as to really master the skills developed here. Wishing you all the best!
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
