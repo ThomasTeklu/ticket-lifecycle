@@ -77,31 +77,31 @@ Upon switching the departments, was there any automatic reaction for you? If not
 
 # Working the Issue
 
-Returning to the Agent Login Page, log in using the "Jane" account the you created in the last section of the tutorial. Upon logging in, you should now see the transferred ticket.
+Returning to the Agent Login Page, log in using the "Jane" account the you created in the last installation of the tutorial. Upon logging in, you should now see the transferred ticket.
 
-![image](https://github.com/user-attachments/assets/21548fe9-a738-41c2-85cc-38fb73b08ed1)
+![image](https://github.com/user-attachments/assets/d6b1beb3-729c-4127-be0f-11d73b67bf00)
 
-Remember that Jane is a member of the SysAdmins department, so now that the ticket has been assigned to her department, she can view it upon logging in.
+Remember that Jane is a member of the SysAdmins department, so now that the ticket has been assigned to her department, she can view it immediately in her Tickets dashboard after logging in.
 
 Open the ticket and scroll down to the Ticket Thread. Notice that you can see the full history of the ticket from its creation to the current moment.
 
+![image](https://github.com/user-attachments/assets/00178f5b-b962-4d0f-b294-7d20e61c6dd7)
 
-![image](https://github.com/user-attachments/assets/b8d9e880-2a54-4074-b5a6-c8ca44586d05)
-
-**Note**: As you can see, due to the times at which I took these screenshots, there was enough of a period for my ticket to become overdue, which is why the prior image had a small icon along with the ticket name. This is by no means an indicator of what will happen to you. It all depends on the timeline by which you work all of this through. Continuing...
-
-
-Now that we've observed the ticket briefly, let's move on to actually resolving it. It should be noted that the agent responsible for the ticket will often have to do some reading between the lines and also apply situational awareness to tickets since the descriptions that come with initial submission can be a vague. That being said, we will scroll down to the Post Reply section of the ticket. As a SysAdmin who has just been provided with a ticket (namely Jane), you will take steps on your side to resolving the issue while alerting the team what you are about to do. Within the Post Reply write:
+Now that we've observed the ticket briefly, let's move on to actually resolving it. It should be noted that the agent responsible for the ticket will often have to do some reading between the lines and also apply situational awareness to tickets since the descriptions that come with initial submissions can be vague. That being said, we will scroll down to the Post Reply section of the ticket. As a SysAdmin who has just been provided with a ticket (namely Jane), you will take steps on your side to resolving the issue while alerting the team as to what you are about to do. Within the Post Reply write:
 
 "I suspect the issue might be with the recent updates. We tested them sufficiently, but I'll still look into them. If I determine that they were the issue, we'll get on to rolling them back".
 
 Post this reply and observe as it gets added to the ticket's thread. 
 
-![image](https://github.com/user-attachments/assets/04148a0f-3aa7-49d1-a069-87eabcf09c41)
+![image](https://github.com/user-attachments/assets/d695ae0e-edd3-40a6-85d7-8d7824a015f2)
 
-Since we don't have an actual organization that we work in wherein we can check if these said "updates" were the actual problem, we're just going to assume that they were, and that we checked the relevant back-end configuration to know such. As Jane, go back to the Post Reply and let your team know that:
+Since we don't have an actual organization that we work in to check if these said "updates" were the actual problem, we're just going to assume that they were, and that we checked the relevant back-end configuration to figure out as much. As Jane, go back to the Post Reply and let your team know the following:
 
-"Determined that is was indeed the recent updates. We rolled it back, notified the vendor, and are currently awaiting a proper fix. For now, online banking should now be back up".
+"Determined that it was indeed the recent updates. We rolled them back, notified the vendor, and are currently awaiting a proper fix. For now, online banking should now be back up".
+
+# LEFT OFF HERE
+
+
 
 # Resolution
 
